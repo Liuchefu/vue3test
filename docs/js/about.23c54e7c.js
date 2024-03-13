@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwordapp"]=self["webpackChunkwordapp"]||[]).push([[594],{3726:function(n,u,a){a.r(u),a.d(u,{default:function(){return d}});var r=a(6768);const t={class:"about"},e=(0,r.Lk)("h1",null,"This is an about page",-1),s=[e];function c(n,u){return(0,r.uX)(),(0,r.CE)("div",t,s)}var o=a(1241);const p={},i=(0,o.A)(p,[["render",c]]);var d=i}}]);
+//# sourceMappingURL=about.23c54e7c.js.map
